@@ -1,0 +1,12 @@
+# Individual-level data — not distributed (ethics restriction)
+data/*.csv.raw
+data/perdel*.csv
+data/crime_severity_chile2017.csv
+data/crime_severity_composite.csv
+data/2017bps.perdel.sav.csv
+data/*.sav
+
+# R session files
+.Rhistory
+.RData
+scripts/Rplots.pdf
